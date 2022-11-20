@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @athul2k2
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me athulkrishnapv6@gmail.com
 
@@ -39,16 +37,12 @@ You can click the Preview link to take a look at your changes.
 
 ## Tools
 ![AdobeXD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
 ![Figma](https://img.shields.io/badge/Figma-272727?style=for-the-badge&logo=figma&logoColor=white)
-![RaspberryPi](	https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+
 ![VSCode](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Basil-Reji&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Basil-Reji&layout=compact&theme=github_dark&hide_border=true" />
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=Basil-Reji&theme=algolia&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" />
 
