@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 # Hi, I'm [Athul Krishna pv!](https://www.linkedin.com/in/athul-krishna-pv-9a12301a8//)
 
 ## About Me
-  I'm a Third-year Computer science & Engineering student at SIMAT Palakkad . A self-taught creative developer and problem solver, who is extremely enthusiastic about Web development and app development . I am also a passionate volunteer at different non-profit organizations..
+  I'm a final-year Computer science & Engineering student at SIMAT Palakkad . A self-taught creative developer and problem solver, who is extremely enthusiastic about Web development and app development . I am also a passionate volunteer at different non-profit organizations..
 
 ## Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
