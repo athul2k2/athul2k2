@@ -1,17 +1,77 @@
-- 👀 I’m interested in coding 
-- 📫 How to reach me athulkrishnapv6@gmail.com
+# 👋 Hi, I'm Athul Krishna PV 
+### Full Stack Java Developer | Spring Boot Specialist | Cloud Enthusiast
 
-<!---
-athul2k2/athul2k2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/athulkrishnapv)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=flat&logo=gmail)](mailto:athulkrishnapv6@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-%2300A98F?style=flat)](Athul_Krishna_Pv_2025.pdf)
 
+---
 
-# Hi, I'm [Athul Krishna pv!](https://www.linkedin.com/in/athul-krishna-pv-9a12301a8//)
+## 🚀 Technical Arsenal
 
- A self-taught creative developer and problem solver, who is extremely enthusiastic about Web development and app development .
+### Backend Mastery
+![Java](https://img.shields.io/badge/Java-Expert-%23ED8B00?logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Pro-%236DB33F?logo=springboot)
+![Microservices](https://img.shields.io/badge/Microservices-Architect-%230052CC?logo=spring)
+![Hibernate](https://img.shields.io/badge/Hibernate-ORM-%2359666C?logo=hibernate)
 
+### Frontend Skills
+![Angular](https://img.shields.io/badge/Angular-Intermediate-%23DD0031?logo=angular)
+![HTML5/CSS3](https://img.shields.io/badge/HTML5/CSS3-Pro-%23E34F26?logo=html5)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-%237952B3?logo=bootstrap)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-Certified-%23232F3E?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Containerized-%232496ED?logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-Pipelines-%230055A8?logo=githubactions)
 
+---
+
+## 💼 Highlight Reel
+
+### 🔥 Recent Achievement
+**30% API Performance Boost** at Flytxt  
+Optimized Redis caching for promotional offers in enterprise SaaS platform serving 80+ global clients
+
+### 🏆 Project Spotlight
+**Smart Contact Manager**  
+- Spring Boot + MySQL + AWS deployed  
+- Implemented JWT-free auth with Spring Security  
+- 25 contacts/page pagination with JPQL search  
+
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-%23181717?logo=github)](https://github.com/athul2k2/smart-contact-manager)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athul2k2&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athul2k2&layout=compact&theme=radical" />
+</div>
+
+---
+
+## 🏅 Certifications & Education
+- **Qspider Certified Full Stack Developer** (Spring Boot, Angular, MySQL)  
+- **B.Tech Computer Science** @ SIMAT (7.3 GPA)  
+- **AWS Cloud Practitioner** (In Progress)  
+
+---
+
+## 💡 What I Bring to Your Team
+✅ **Production-Grade Spring Boot Apps**  
+✅ **Performance Optimization Skills**  
+✅ **Secure Coding Practices**  
+✅ **Agile Team Collaboration**  
+
+---
+
+## 📬 Let's Build Something Amazing!
+```java
+public class Collaboration {
+  public static void main(String[] args) {
+    System.out.println("Ready for new challenges!");
+    System.out.println("Connect via: athulkrishnapv6@gmail.com");
+  }
+}
