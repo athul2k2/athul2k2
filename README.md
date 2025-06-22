@@ -59,27 +59,6 @@ public class AthulKrishna {
 
 ---
 
-## 🚀 Professional Highlights
-
-### 💼 **Software Engineering Intern** @ Flytxt
-_Jan 2025 - Jul 2025 | Kochi, India_
-
-<div style="background: #0D1117; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
-  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-    <span style="color: #58A6FF;">🔧 Tech Stack:</span>
-    <span>Java, Spring Boot, Redis, Polymer.js, AWS</span>
-  </div>
-  
-  <div style="border-left: 3px solid #238636; padding-left: 15px;">
-    <p style="margin: 5px 0;">✅ <strong>30% API performance boost</strong> by optimizing Redis caching for global clients</p>
-    <p style="margin: 5px 0;">🔒 <strong>Enhanced security</strong> with account lockout & session termination features</p>
-    <p style="margin: 5px 0;">🛠️ Built <strong>5+ production features</strong> for multi-country SaaS platform</p>
-    <p style="margin: 5px 0;">🤝 Collaborated in <strong>Agile teams</strong> using Jira for sprint deliverables</p>
-  </div>
-</div>
-
----
-
 ## 🏆 Key Projects
 
 ### 🔐 Smart Contact Manager
@@ -160,22 +139,3 @@ features:
 ---
 
 ⭐ From [Athul Krishna PV](https://github.com/athul2k2) | Open to relocation | Available immediately
-```
-
-### How to use this:
-1. Copy the entire content above
-2. Create/edit your `README.md` file in your GitHub profile repository
-3. Paste this content
-4. Commit the changes
-
-### Key Features:
-- Modern, attractive design that stands out
-- Mobile-responsive layout
-- Clear technical skills breakdown
-- Highlighted professional achievements
-- Interactive GitHub stats
-- Call-to-action buttons for recruiters
-- Java code snippet showing personality
-- Typing animation for key skills
-
-The design uses GitHub's markdown with some HTML/CSS for enhanced styling that works within GitHub's README limitations. All badges and stats will update automatically.
