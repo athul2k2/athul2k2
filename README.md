@@ -1,124 +1,181 @@
-# 👋 Hello, I'm Athul Krishna PV
+Here's the complete GitHub README.md file with all the formatting and content you need:
 
-### Aspiring Full Stack Java Developer | Spring Boot Enthusiast | Ready to Innovate
+```markdown
+# 💻 Athul Krishna PV | Full Stack Java Developer
 
-[cite_start]I'm an enthusiastic and results-driven Entry-Level Full Stack Java Developer with 6 months of hands-on experience building scalable applications. I thrive in dynamic environments and am eager to contribute to innovative projects at forward-thinking startups and companies.
-
----
-
-## 🚀 My Developer Toolkit
-
-Here's a glimpse into the technologies and concepts I bring to the table:
-
-**Languages:**
-[cite_start]![Java](https://img.shields.io/badge/Java-Expert-%23007396?logo=java&logoColor=white) 
-[cite_start]![Python](https://img.shields.io/badge/Python-Intermediate-%233776AB?logo=python&logoColor=white) 
-[cite_start]![JavaScript](https://img.shields.io/badge/JavaScript-Proficient-%23F7DF1E?logo=javascript&logoColor=black) 
-[cite_start]![SQL](https://img.shields.io/badge/SQL-Proficient-%234479A1?logo=postgresql&logoColor=white) 
-[cite_start]![TypeScript](https://img.shields.io/badge/TypeScript-Basic-%233178C6?logo=typescript&logoColor=white) 
-
-**Backend Core:**
-[cite_start]![Spring Boot](https://img.shields.io/badge/Spring_Boot-Strong-%236DB33F?logo=springboot&logoColor=white) 
-[cite_start]![Microservices](https://img.shields.io/badge/Microservices-Familiar-%230052CC?logo=spring&logoColor=white) 
-[cite_start]![REST APIs](https://img.shields.io/badge/REST_APIs-Proficient-%23000000?style=flat&logo=rest) 
-[cite_start]![Hibernate](https://img.shields.io/badge/Hibernate-ORM-%2359666C?logo=hibernate&logoColor=white) 
-[cite_start]![JPA](https://img.shields.io/badge/JPA-Proficient-%2359666C?logo=spring&logoColor=white) 
-
-**Frontend Essentials:**
-[cite_start]![Angular](https://img.shields.io/badge/Angular-Intermediate-%23DD0031?logo=angular&logoColor=white) 
-[cite_start]![HTML5](https://img.shields.io/badge/HTML5-Proficient-%23E34F26?logo=html5&logoColor=white) 
-[cite_start]![CSS3](https://img.shields.io/badge/CSS3-Proficient-%231572B6?logo=css3&logoColor=white) 
-[cite_start]![Bootstrap](https://img.shields.io/badge/Bootstrap-Proficient-%237952B3?logo=bootstrap&logoColor=white) 
-
-**Databases:**
-[cite_start]![MySQL](https://img.shields.io/badge/MySQL-Proficient-%234479A1?logo=mysql&logoColor=white) 
-[cite_start]![Redis](https://img.shields.io/badge/Redis-Familiar-%23DC382D?logo=redis&logoColor=white) 
-
-**DevOps & Cloud:**
-[cite_start]![AWS](https://img.shields.io/badge/AWS-Familiar-%23232F3E?logo=amazonaws&logoColor=white) 
-[cite_start]![Docker](https://img.shields.io/badge/Docker-Basic-%232496ED?logo=docker&logoColor=white) 
-[cite_start]![Git](https://img.shields.io/badge/Git-Proficient-%23F05032?logo=git&logoColor=white) 
-[cite_start]![CI/CD](https://img.shields.io/badge/CI/CD-Basic-%230055A8?logo=githubactions&logoColor=white) 
-
-**Key Concepts:**
-[cite_start]`OOP`  | [cite_start]`Data Structures`  | [cite_start]`Algorithms`  | [cite_start]`System Design (Basic)`  | [cite_start]`TDD (Familiar)`  | [cite_start]`Agile` 
-
----
-
-## 💼 Experience & Achievements
-
-### Software Engineering Intern @ Flytxt
-**Jan 2025 - Jul 2025 | [cite_start]Kochi, India** 
-* Contributed to a SaaS-based customer engagement platform utilized by 80+ enterprises across 50 countries.
-* [cite_start]**Boosted API performance by 30%** for global clients by optimizing Redis caching for promotional offers.
-* [cite_start]Implemented a critical security patch for the authentication service, introducing account lockout after 3 failed attempts and active session termination for unauthorized password changes.
-* Developed a Polymer.js feature for the campaign management UI, allowing users to combine multiple offers, now used daily by 100+ operators.
-* [cite_start]Engineered APIs for chatbot integration and provider services, managing critical attributes like ID and name.
-* [cite_start]Actively collaborated in Agile teams using Jira, delivering 5+ feature enhancements for multi-country deployments.
-
-### Project Spotlight: Smart Contact Manager
-[cite_start]A secure and robust contact management system built with **Spring Boot**  [cite_start]and **MySQL**.
-* Implemented JWT-free authentication with Spring Security for secure registration and login.
-* [cite_start]Developed efficient search functionality across name and email fields using JPQL queries.
-* [cite_start]Ensured data integrity with form validation for phone and email formats using Hibernate Validator.
-* Deployed on AWS using EC2 and RDS/Aurora, with Docker for streamlined setup.
-
-[![View Project](https://img.shields.io/badge/Explore%20on%20GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/athul2k2/smart-contact-manager)
-
----
-
-## 💡 What I Bring to Your Team
-
-* [cite_start]**Production-Ready Code:** Hands-on experience building and maintaining scalable applications using Spring Boot and Microservices.
-* [cite_start]**Performance Focus:** Proven ability to optimize API performance, as demonstrated by a 30% improvement at Flytxt.
-* **Security Minded:** Experience implementing security patches and enforcing secure authentication practices.
-* [cite_start]**Agile Collaboration:** A strong team player with experience in Agile methodologies and Jira.
-* [cite_start]**Problem Solver:** Adept at debugging and delivering high-performance solutions.
-
----
-
-## 📊 My GitHub Activity
+```java
+public class AthulKrishna {
+    public static void main(String[] args) {
+        System.out.println("Building scalable solutions with Spring Boot & Angular");
+        System.out.println("Open to opportunities in innovative startups & tech companies");
+    }
+}
+```
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athul2k2&show_icons=true&theme=radical&count_private=true&hide_title=true&hide_border=true" alt="Athul Krishna's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athul2k2&layout=compact&theme=radical&hide_title=true&hide_border=true" alt="Athul Krishna's Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&width=435&lines=Spring+Boot+%7C+Microservices+%7C+Angular;Java+%7C+TypeScript+%7C+AWS;Problem+Solver+%7C+Agile+Developer" alt="Typing SVG" />
+</div>
+
+---
+
+## 🛠️ Technical Arsenal
+
+### 🔧 Core Competencies
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Backend Mastery</h3>
+      <ul>
+        <li>Java 8+</li>
+        <li>Spring Boot</li>
+        <li>Spring Security</li>
+        <li>Hibernate/JPA</li>
+        <li>REST APIs</li>
+        <li>Microservices</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Frontend Skills</h3>
+      <ul>
+        <li>Angular</li>
+        <li>TypeScript</li>
+        <li>HTML5/CSS3</li>
+        <li>Bootstrap</li>
+        <li>JavaScript ES6+</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3>DevOps & More</h3>
+      <ul>
+        <li>AWS (EC2, RDS)</li>
+        <li>Docker</li>
+        <li>MySQL/Redis</li>
+        <li>Git/GitHub</li>
+        <li>CI/CD Basics</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Professional Highlights
+
+### 💼 **Software Engineering Intern** @ Flytxt
+_Jan 2025 - Jul 2025 | Kochi, India_
+
+<div style="background: #0D1117; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+    <span style="color: #58A6FF;">🔧 Tech Stack:</span>
+    <span>Java, Spring Boot, Redis, Polymer.js, AWS</span>
+  </div>
+  
+  <div style="border-left: 3px solid #238636; padding-left: 15px;">
+    <p style="margin: 5px 0;">✅ <strong>30% API performance boost</strong> by optimizing Redis caching for global clients</p>
+    <p style="margin: 5px 0;">🔒 <strong>Enhanced security</strong> with account lockout & session termination features</p>
+    <p style="margin: 5px 0;">🛠️ Built <strong>5+ production features</strong> for multi-country SaaS platform</p>
+    <p style="margin: 5px 0;">🤝 Collaborated in <strong>Agile teams</strong> using Jira for sprint deliverables</p>
+  </div>
+</div>
+
+---
+
+## 🏆 Key Projects
+
+### 🔐 Smart Contact Manager
+_A secure Spring Boot application with AWS deployment_
+
+```yaml
+features:
+  - JWT-free authentication with Spring Security
+  - Efficient search with JPQL queries
+  - AWS EC2 + RDS deployment
+  - Docker containerization
+  - Hibernate form validation
+```
+
+[![View on GitHub](https://img.shields.io/badge/🚀_View_Code-181717?style=for-the-badge&logo=github)](https://github.com/athul2k2/smart-contact-manager)
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img alt="Athul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=athul2k2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athul2k2&layout=compact&theme=radical&hide_border=true&langs_count=6" />
 </div>
 
 ---
 
 ## 🎓 Education & Certifications
 
-* **Qspider Certified Full Stack Developer** | JSpiders Software Training Institute, Kochi 
-    * [cite_start]*Technologies:* Spring Boot, Hibernate, MySQL, Angular, REST APIs, HTML/CSS, JavaScript, Java 
-    * [cite_start]Mar 2024 - Jan 2025 
-* **B.Tech in Computer Science** | Sreepathy Institute of Management & Technology 
-    * Nov 2020 - Mar 2024 | [cite_start]GPA: 7.3/10 
-* **AWS Cloud Practitioner** (In Progress)
+```markdown
+- 🎯 **Qspider Certified Full Stack Developer** (Mar 2024 - Jan 2025)
+  - Spring Boot | Angular | MySQL | REST APIs
+- 🏫 **B.Tech in Computer Science** (2020-2024) - GPA: 7.3/10
+- ☁️ **AWS Cloud Practitioner** (In Progress)
+```
 
 ---
 
-## 🎉 Beyond the Code
+## 💬 Why Hire Me?
 
-* [cite_start]**Top 41%** (14385/35,000+ participants) in IEEEXtreme 16.0.
-* Led development of an Android game with **200+ Play Store downloads**.
-* [cite_start]Served as **Vice Chair of IEEE SIMAT SB**.
-* [cite_start]**Web developer for IEEE Computer Society Kerala Section**, optimizing website performance and contributing to 10+ event websites.
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; margin-top: 20px;">
+  <div style="background: #161B22; padding: 15px; border-radius: 8px; border-left: 4px solid #238636;">
+    <h3 style="margin-top: 0; color: #58A6FF;">🚀 Production-Ready Skills</h3>
+    <p>6 months hands-on experience building and maintaining scalable Java applications</p>
+  </div>
+  
+  <div style="background: #161B22; padding: 15px; border-radius: 8px; border-left: 4px solid #1F6FEB;">
+    <h3 style="margin-top: 0; color: #58A6FF;">⚡ Performance Focus</h3>
+    <p>Proven ability to optimize systems (30% API improvement at Flytxt)</p>
+  </div>
+  
+  <div style="background: #161B22; padding: 15px; border-radius: 8px; border-left: 4px solid #DB61A2;">
+    <h3 style="margin-top: 0; color: #58A6FF;">🔒 Security Conscious</h3>
+    <p>Implemented critical security patches in production environment</p>
+  </div>
+</div>
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let's Build Something Amazing!
 
-I'm actively seeking exciting opportunities to grow and contribute my skills to a dynamic team. Feel free to reach out!
+<div align="center" style="margin-top: 30px;">
+  <a href="https://www.linkedin.com/in/athulkrishnapv">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:athulkrishnapv6@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="Athul_Krishna_Pv_2025.pdf">
+    <img alt="Resume" src="https://img.shields.io/badge/-Download%20Resume-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" />
+  </a>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/athulkrishnapv)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-%23D14836?style=for-the-badge&logo=gmail)](mailto:athulkrishnapv6@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Download-%2300A98F?style=for-the-badge&logo=file-pdf)](Athul_Krishna_Pv_2025.pdf)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-%23181717?style=for-the-badge&logo=github)](https://github.com/athul2k2)
+<div align="center" style="margin-top: 20px;">
+  <img src="https://komarev.com/ghpvc/?username=athul2k2&label=Profile%20Views&color=0e75b6&style=flat" alt="athul2k2" />
+</div>
 
-```java
-// Eager to learn, ready to contribute, and passionate about crafting efficient solutions.
-public class AthulKrishnaPV {
-    public static void main(String[] args) {
-        System.out.println("Looking forward to building something amazing together!");
-    }
-}
+---
+
+⭐ From [Athul Krishna PV](https://github.com/athul2k2) | Open to relocation | Available immediately
+```
+
+### How to use this:
+1. Copy the entire content above
+2. Create/edit your `README.md` file in your GitHub profile repository
+3. Paste this content
+4. Commit the changes
+
+### Key Features:
+- Modern, attractive design that stands out
+- Mobile-responsive layout
+- Clear technical skills breakdown
+- Highlighted professional achievements
+- Interactive GitHub stats
+- Call-to-action buttons for recruiters
+- Java code snippet showing personality
+- Typing animation for key skills
+
+The design uses GitHub's markdown with some HTML/CSS for enhanced styling that works within GitHub's README limitations. All badges and stats will update automatically.
