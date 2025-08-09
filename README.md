@@ -7,11 +7,14 @@
 ---
 
 ## 🧑‍💻 About Me
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
-- 🔭 I’m currently working on **Scalable Web Apps**
-- 🌱 I’m learning **AWS, Microservices, and Cloud Architecture**
-- 💬 Ask me about **Java, Spring Boot, Angular**
-- ⚡ Fun fact: I debug my code by talking to my rubber duck 🦆
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding GIF">
+
+- 🔭 **Currently working on:** Scalable Web Applications  
+- 🌱 **Learning:** AWS, Microservices, and Cloud Architecture  
+- 💬 **Ask me about:** Java, Spring Boot, Angular  
+- 🎯 **Goal for 2025:** Contribute to major Open Source projects  
+- ⚡ **Fun fact:** I debug my code by explaining it to my rubber duck 🦆
 
 ---
 
