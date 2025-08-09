@@ -1,8 +1,8 @@
 <!-- Profile Banner -->
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:203a43&height=180&section=header&text=Athul%20Krishna%20🚀&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# 👋 Hey there, I'm Athul Krishna  
-💻 **Full Stack Java Developer** | ☁ AWS Enthusiast | 📈 Lifelong Learner  
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;AWS+Cloud+Practitioner+(Soon);Lifelong+Learner;Code.+Deploy.+Repeat.)](https://git.io/typing-svg)
 
 ---
 
@@ -40,13 +40,32 @@
 
 ---
 
-## 🤝 Connect With Me
+## 📈 Activity Graph
+[![Athul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athul2k2&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/athul2k2/athul2k2/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎵 Now Playing on Spotify
 <p align="center">
-  <a href="https://www.linkedin.com/in/athul2k2"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:athulkrishna.dev@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" width="400"/>
+  </a>
 </p>
 
 ---
 
-<!-- Footer Quote -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:203a43&height=100&section=footer&text=Happy%20Coding%20💻&fontColor=ffffff)
+## ⏳ Coding Stats (via WakaTime)
+<!--START_SECTION:waka-->
+```txt
+From: 01 August 2025 - To: 08 August 2025
+
+Java             12 hrs 45 mins  ██████████████░░░░░░░░░░░   57.3%
+TypeScript       5 hrs 10 mins   ██████░░░░░░░░░░░░░░░░░░░   23.2%
+HTML/CSS         2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   11.3%
+Docker           45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   3.4%
+Other            35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   2.8%
