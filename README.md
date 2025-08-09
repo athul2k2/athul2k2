@@ -46,7 +46,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/athul2k2/athul2k2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/athul2k2/athul2k2/blob/output/snake.svg)
 
 ---
 
