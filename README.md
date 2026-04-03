@@ -19,6 +19,16 @@
 
 ---
 
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/athulkrishnapv"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:athulkrishnapv6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://leetcode.com/u/athulkrishna"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/></a>
+</p>
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
@@ -91,31 +101,30 @@
 
 ---
 
+## 🧩 DSA Practice
+
+<p align="center">
+  <a href="https://leetcode.com/u/athulkrishna">
+    <img src="https://leetcard.jacoblin.cool/athulkrishna?theme=dark&font=Fira%20Code&ext=contest" alt="Leetcode Stats"/>
+  </a>
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-Leetcode_Daily-FFA116?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/Spring_AI-RAG_+_MCP-6DB33F?style=for-the-badge&logo=spring"/>
+  <img src="https://img.shields.io/badge/System_Design-Grokking-0052CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kafka-Event_Streaming-231F20?style=for-the-badge&logo=apachekafka"/>
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athul2k2&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/athul2k2/athul2k2/output/snake.svg)
-
----
-
-## 💡 Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/athulkrishnapv"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:athulkrishnapv6@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://leetcode.com/u/athulkrishna"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/></a>
-</p>
 
 ---
 
