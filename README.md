@@ -57,15 +57,6 @@
 
 ---
 
-### 📇 Smart Contact Manager
-> Secure contact management web app with JWT auth and AWS deployment
-
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/athul2k2/SmartContactManager)
-![Java](https://img.shields.io/badge/Java-Spring_Boot-green?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Deployed-orange?style=flat-square)
-
----
-
 ## 💼 Production Experience Highlights
 
 ```
@@ -102,13 +93,13 @@
 
 ## 📈 Contribution Graph
 
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athul2k2&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/athul2k2/athul2k2/blob/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/athul2k2/athul2k2/output/snake.svg)
 
 ---
 
