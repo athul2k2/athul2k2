@@ -15,7 +15,6 @@
 - 💳 **Domain:** Fintech — payment APIs, card lifecycle management, government compliance (WPS/MOHRE)
 - 🎯 **Goal:** Land a backend engineering role at a product-based company in 2026
 - 🧩 **Ask me about:** Java, Spring Boot, REST APIs, Microservices, AWS, Redis
-- ⚡ **Fun fact:** I debug by explaining code to my rubber duck 🦆
 
 ---
 
